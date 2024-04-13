@@ -1,7 +1,20 @@
 <h1 align="center">Hey 👋, I'm Raymond</h1>
 <h3 align="center">A full-stack web developer in New York City</h3>
 
+<p align="left"> <a href="https://twitter.com/therealraychiu" target="blank"><img src="https://img.shields.io/twitter/follow/therealraychiu?logo=twitter&style=for-the-badge" alt="therealraychiu" /></a> </p>
+
+- 🌱 I’m currently learning **Node.js**
+
+- 💬 Ask me about **JavaScript**
+
+- 📫 How to reach me **raymondchiu19@gmail.com**
+
+- ⚡ Fun fact **I love all things fitness. Training for the Berlin marathon.**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/therealraychiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="therealraychiu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chiu-raymond" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chiu-raymond" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
