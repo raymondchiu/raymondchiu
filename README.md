@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Raymond</h1>
-<h3 align="center">A Software Engineer living in New York City</h3>
+<h3 align="center">A Software Engineer in New York City :statue_of_liberty: </h3>
 
 - 🌱 I’m currently learning **Node.js**
 
