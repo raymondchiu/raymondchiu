@@ -1,7 +1,6 @@
 <h1 align="center">Hey 👋, I'm Raymond</h1>
 <h3 align="center">A full-stack web developer in New York City</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
