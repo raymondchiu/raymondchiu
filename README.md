@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **HTML, CSS, & JavaScript**
 
-- ⚡ Fun fact **I love all things fitness. Training for the Berlin marathon.**
+- ⚡ Fun fact **I love all things fitness. :muscle: Training for the Berlin marathon.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
