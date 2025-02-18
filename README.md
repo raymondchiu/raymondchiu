@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Raymond</h1>
 <h3 align="center">A Software Engineer in New York City :statue_of_liberty: </h3>
 
-- 🌱 I’m currently learning **React** ⚛️
+- 🌱 I’m currently learning **algorithms** ⚛️
 
 - 💬 Ask me about **HTML, CSS, & JavaScript**
 
